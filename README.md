@@ -1,2 +1,2 @@
 # fettle
-Fettle Design
+Fitness Club Management System
